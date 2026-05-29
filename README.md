@@ -13,7 +13,7 @@
 - Tests d'intrusion web : SQLi, XSS, IDOR, RCE, SSRF, LFI
 - Exploitation réseau : pivot, tunneling SSH, relais de trafic
 - Active Directory : énumération, Kerberoasting, Pass-the-Hash (lab)
-- Outils : Burp Suite, Metasploit, SQLmap, Nmap, Nikto, ffuf, Netcat, Responder
+- Outils : Burp Suite, Metasploit, SQLmap, Nmap, Nikto, ffuf, Netcat, Responder, Splunk 
 
 **Réseau & Infrastructure**
 - Protocoles : TCP/IP, DNS, HTTP/S, SSH, VPN
